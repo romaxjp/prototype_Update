@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<zupdater>
+    <application>Potojeux - Prototype</application>
+    <builds>
+        <build>
+            <version>1</version>
+            <desc>
+                <![CDATA[<p><b>Potojeux - Revision #1</b></p>
+<ul>
+		<li>Première version, Ceci est une version prototype (test), <a href="https://potojeux.com">Site web</a>.</li>
+</ul>
+]]>
+</desc>
+        </build>
+
+    </builds>
+    <patches>
+        <patch>
+            <source_version>0</source_version>
+            <destination_version>1</destination_version>
+            <file>http://potojeux.com/updater/PatchFiles/prototypev001.zpatch</file>
+            <size>850926906</size>
+            <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
+        </patch>
+    </patches>
+</zupdater>
