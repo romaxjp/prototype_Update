@@ -18,8 +18,8 @@
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>http://potojeux.com/updater/PatchFiles/prototypev001.zpatch</file>
-            <size>850926906</size>
+            <file>ftp://ftp.cs.brown.edu/pub/aqua.tar.Z</file>
+            <size>402000</size>
             <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
         </patch>
     </patches>
