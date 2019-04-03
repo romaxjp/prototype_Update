@@ -28,7 +28,7 @@
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>http://188.213.28.105/ftp/potojeux_prototype_v0.0.1.zpatch</file>
+            <file>https://github.com/romaxjp/prototype_Update/raw/master/potojeux_prototype_v0.0.1.zpatch</file>
             <size>53</size>
             <md5>C384B117714650FA2D36DA726B47057F</md5>
         </patch>
