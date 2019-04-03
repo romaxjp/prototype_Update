@@ -1,26 +1,43 @@
 <?xml version="1.0" ?>
 <zupdater>
-    <application>Potojeux - Prototype</application>
+    <application>ZPatcher Test Suite</application>
     <builds>
         <build>
-            <version>1</version>
+            <version>2</version>
             <desc>
-                <![CDATA[<p><b>Potojeux - Revision #1</b></p>
+                <![CDATA[<p><b>ZPatcher Test Suite - Revision #2</b></p>
 <ul>
-		<li>Première version, Ceci est une version prototype (test), <a href="https://potojeux.com">Site web</a>.</li>
+		<li>A few files were changed. For a complete list, check <a href="https://github.com/TheZoc/ZPatcher/blob/master/tests/patches/Logs/ZPatcher%20-%20base%20to%20rev1.log">this link</a>.</li>
 </ul>
 ]]>
 </desc>
         </build>
-
+        <build>
+            <version>1</version>
+            <desc>
+                <![CDATA[<p><b>ZPatcher Test Suite - Revision #1</b></p>
+<ul>
+		<li>Initial release!</li>
+		<li>For the detailed base structure provided in this test, check <a href="https://github.com/TheZoc/ZPatcher/blob/master/tests/patches/Logs/ZPatcher%20-%20base.log">this link</a>.</li>
+</ul>
+]]>
+</desc>
+        </build>
     </builds>
     <patches>
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>https://potojeux.com/updater/PatchFiles/prototypev001.zpatch</file>
-            <size>850926906</size>
-            <md5>370c2ed1cd345e2bf42534ec101010c2</md5>
+            <file>https://raw.githubusercontent.com/TheZoc/ZPatcher/master/tests/patches/base.zpatch</file>
+            <size>678</size>
+            <md5>78e14f106f2a09da62eb6fccb1038177</md5>
+        </patch>
+        <patch>
+            <source_version>1</source_version>
+            <destination_version>2</destination_version>
+            <file>https://raw.githubusercontent.com/TheZoc/ZPatcher/master/tests/patches/base_to_rev2.zpatch</file>
+            <size>351</size>
+            <md5>34239473447c4f8a866f04e47e075398</md5>
         </patch>
     </patches>
 </zupdater>
