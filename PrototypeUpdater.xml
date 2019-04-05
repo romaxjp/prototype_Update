@@ -28,14 +28,14 @@
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>https://potojeux.com/updater/PatchFiles/test.zpatch</file>
+            <file>https://potojeux.com/updater/test.zpatch</file>
             <size>53</size>
             <md5>C384B117714650FA2D36DA726B47057F</md5>
         </patch>
         <patch>
             <source_version>1</source_version>
             <destination_version>2</destination_version>
-            <file>https://potojeux.com/updater/PatchFiles/proto.zpatch</file>
+            <file>https://potojeux.com/updater/proto.zpatch</file>
             <size>850926906</size>
             <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
         </patch>
