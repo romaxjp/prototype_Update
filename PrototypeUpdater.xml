@@ -28,14 +28,14 @@
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>https://raw.githubusercontent.com/romaxjp/prototype_Update/master/test.zpatch</file>
+            <file>https://potojeux.com/updater/PatchFiles/test.zpatch</file>
             <size>53</size>
             <md5>C384B117714650FA2D36DA726B47057F</md5>
         </patch>
         <patch>
             <source_version>1</source_version>
             <destination_version>2</destination_version>
-            <file>http://188.213.28.105/ftp/prototypev001.zpatch</file>
+            <file>https://potojeux.com/updater/PatchFiles/prototypev001.zpatch</file>
             <size>850926906</size>
             <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
         </patch>
