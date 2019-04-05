@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <zupdater>
-    <application>ZPatcher Test Suite</application>
+    <application>Potojeux</application>
     <builds>
         <build>
             <version>2</version>
@@ -35,7 +35,7 @@
         <patch>
             <source_version>1</source_version>
             <destination_version>2</destination_version>
-            <file>https://potojeux.com/updater/PatchFiles/prototypev001.zpatch</file>
+            <file>https://potojeux.com/updater/PatchFiles/proto.zpatch</file>
             <size>850926906</size>
             <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
         </patch>
