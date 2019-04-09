@@ -29,16 +29,8 @@
             <source_version>0</source_version>
             <destination_version>1</destination_version>
             <file>https://potojeux.com/updater/test.zpatch</file>
-            <size>53</size>
-            <md5>C384B117714650FA2D36DA726B47057F</md5>
+            <size>350407331</size>
+            <md5>C01F01BD1E29C406F209A297A905B69C</md5>
         </patch>
-        <patch>
-            <source_version>1</source_version>
-            <destination_version>2</destination_version>
-            <file>https://potojeux.com/updater/proto.zpatch</file>
-            <size>850926906</size>
-            <md5>370C2ED1CD345E2BF42534EC101010C2</md5>
-        </patch>
-
     </patches>
 </zupdater>
