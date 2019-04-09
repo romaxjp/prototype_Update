@@ -18,7 +18,7 @@
         <patch>
             <source_version>0</source_version>
             <destination_version>1</destination_version>
-            <file>http://potojeux.com/updater/proto.zpatch</file>
+            <file>https://dl.dropboxusercontent.com/s/mxefgaw1zuvjrio/proto.zpatch</file>
             <size>350407331</size>
             <md5>C01F01BD1E29C406F209A297A905B69C</md5>
         </patch>
