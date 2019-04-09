@@ -3,22 +3,12 @@
     <application>Potojeux</application>
     <builds>
         <build>
-            <version>2</version>
-            <desc>
-                <![CDATA[<p><b>ZPatcher Test Suite - Revision #2</b></p>
-<ul>
-		<li>A few files were changed. For a complete list, check <a href="https://github.com/TheZoc/ZPatcher/blob/master/tests/patches/Logs/ZPatcher%20-%20base%20to%20rev1.log">this link</a>.</li>
-</ul>
-]]>
-</desc>
-        </build>
-        <build>
             <version>1</version>
             <desc>
-                <![CDATA[<p><b>ZPatcher Test Suite - Revision #1</b></p>
+                <![CDATA[<p><b>Potojeux v0.0.2 </b></p>
 <ul>
-		<li>Initial release!</li>
-		<li>For the detailed base structure provided in this test, check <a href="https://github.com/TheZoc/ZPatcher/blob/master/tests/patches/Logs/ZPatcher%20-%20base.log">this link</a>.</li>
+		<li>Version 0.0.2</li>
+		<li>pour le detail voir ici => <a href="https://potojeux.com/2019/04/09/potojeux-v0-0-2/">Potojeux News</a>.</li>
 </ul>
 ]]>
 </desc>
